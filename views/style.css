@@ -1,0 +1,25 @@
+body{
+    background-color: cadetblue;
+}
+form{
+    background-color: rgb(203, 204, 193);
+    width: 50%;
+    height: 100%;
+}
+img{
+    width: 70%;
+    height: 85%;
+}
+h1{
+    text-align: center;
+    font-family: 'Tapestry', cursive;
+    font-size: 300%;
+}
+.text{
+    font-size: larger;
+    font-family: 'Tapestry', cursive;
+}
+tr,th,td{
+    border: 2px solid black;
+    text-align: center;
+}
